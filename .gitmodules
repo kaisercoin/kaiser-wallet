@@ -1,0 +1,6 @@
+[submodule "cryptonote"]
+	path = cryptonote
+	url = https://github.com/asecoinio/asecoin
+[submodule "bytecoin"]
+	path = bytecoin
+	url = https://github.com/kaisercoin/kaiser

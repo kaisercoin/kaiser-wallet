@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "KaiserWallet")
+set(CN_CURRENCY_DISPLAY_NAME "Kaiser")
+set(CN_CURRENCY_TICKER "KSR")
+set(CN_VERSION 1.0.0)
